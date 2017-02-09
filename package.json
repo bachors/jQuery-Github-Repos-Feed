@@ -1,0 +1,24 @@
+{
+  "name": "jQuery-Github-Repos-Feed",
+  "version": "1.0.0",
+  "description": "jQuery Github Repos Feed.",
+  "repository": "bachors/jQuery-Github-Repos-Feed",
+  "author": "Ican Bachors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bachors/jQuery-Github-Repos-Feed/issues"
+  },
+  "homepage": "https://github.com/bachors/jQuery-Github-Repos-Feed",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "fontawesome": "^4.7.0"
+  },
+  "keywords": [
+    "github",
+    "git",
+    "feed",
+    "widget",
+    "file",
+    "repositories"
+  ]
+}
